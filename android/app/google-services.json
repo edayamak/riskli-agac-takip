@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259439526042",
+    "project_id": "riskli-agac-takip",
+    "storage_bucket": "riskli-agac-takip.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259439526042:android:a69b7d6fba4a10487edf23",
+        "android_client_info": {
+          "package_name": "com.example.riskli_agac_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zEdAGuT3Ejw5unDJwL9XDtmqTVvTKxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
